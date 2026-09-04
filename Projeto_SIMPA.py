@@ -1,0 +1,1 @@
+print("tem bosta nenhuma aqui")
